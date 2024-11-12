@@ -1,0 +1,9 @@
+2024-11-06 11:09:03,528 - Vigilance -INFO - Entered URL: http://45.114.143.206:9080/testing/shalu/latest/mri_analysis/
+2024-11-06 11:09:03,674 - Vigilance -INFO - Entered UserName: AT@DIV211211
+2024-11-06 11:09:03,746 - Vigilance -INFO - Entered Password
+2024-11-06 11:09:04,801 - Vigilance -INFO - Clicked on login button
+2024-11-06 11:09:05,006 - Vigilance -INFO - Clicked on Vigil-Eye Menu
+2024-11-06 11:09:09,179 - Vigilance -INFO - Clicked on Allot Pending Menu
+2024-11-06 11:09:09,190 - Vigilance -INFO - Successfully clicked on Allot Pending Case
+2024-11-06 11:09:09,193 - Vigilance -INFO - Test completed
+2024-11-06 11:09:09,336 - Vigilance -INFO - Browser closed and WebDriver terminated
